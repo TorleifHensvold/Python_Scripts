@@ -6,6 +6,7 @@ ventetid = 1	# how long until it opens the tkinter dialog box for choosing file 
 
 # Intellectual property of Torleif Hensvold
 # Permission to freely distribute this script in its unaltered form (that includes comments) is granted in perpetuity.
+# Permission to freely alter the script for personal use is granted in perpetuity.
 # This script is provided as-is and the user takes full responsibility for any and all damages caused by this script.
 
 def runningLoop(tid, filename, location, backuplocation):
