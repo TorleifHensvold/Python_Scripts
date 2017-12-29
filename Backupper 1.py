@@ -2,7 +2,7 @@ import tkinter.filedialog
 import sys, time, msvcrt
 from shutil import copy2
 
-ventetid = 1
+ventetid = 1	# how long until it opens the tkinter dialog box for choosing file and backup location in seconds
 
 # Intellectual property of Torleif Hensvold
 # Permission to freely distribute this script in its unaltered form (that includes comments) is granted in perpetuity.
